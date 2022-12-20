@@ -1,0 +1,90 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+}
+p {
+    font-size: 13px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: aliceblue;
+    font-weight: 500;
+    line-height: 1.5;
+}
+h4, h5 {
+    font-family: 'Barlow Condensed', sans-serif;
+    color: aliceblue;
+    margin: 0;
+}
+.container {
+    width: 100%;
+    float: left;
+    display: block;
+}
+.container-image {
+    border-radius: 80%;
+    max-width: 40px;
+}
+.general-container {
+    border-radius: 10px;
+    padding: 2em;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: aliceblue;
+    position: absolute;
+}
+.purple{    
+    background-color: hsl(263, 55%, 52%);
+    left: 10%;
+    top: 10%;
+    height: 45%;
+    width: 54%;
+}
+
+.quotation {
+    position: absolute;
+    left: 64%;
+    z-index: 1;
+}
+
+.purple-background-container-intro {
+    position: relative;
+    z-index: 2;
+}
+
+.grey {
+    background-color: hsl(217, 19%, 35%);
+    top: 10%;    
+    left: 70%;
+    height: 45%;
+    width: 20%;
+}
+
+
+.white {
+    background-color: white;
+    top: 10%;    
+    left: 97%;
+    height: 98%;
+    width: 20%;
+}
+
+.white-container {
+    color: hsl(0, 4%, 36%);
+}
+.rose {
+    background-color: hsl(0, 56%, 93%);
+    top: 69%;    
+    left: 10%;
+    height: 40%;
+    width: 19%;
+}
+.darkpurple {
+    background-color: hsl(263, 88%, 9%);
+    top: 69%;    
+    left: 35%;
+    height: 40%;
+    width: 55%;
+}
+
+.container-image {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
